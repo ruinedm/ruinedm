@@ -3,3 +3,6 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=7t0psy9kagwu7irf6i544sl9d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=448410&bar_color_cover=true" />
   </a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruinedm)](https://github.com/anuraghazra/github-readme-stats)
